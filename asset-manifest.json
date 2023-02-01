@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Alura-Studies/static/css/main.01cd53e2.css",
+    "main.js": "/Alura-Studies/static/js/main.89337cbe.js",
+    "static/media/check-mark.svg": "/Alura-Studies/static/media/check-mark.7804822e479e0f94c4e2.svg",
+    "index.html": "/Alura-Studies/index.html",
+    "main.01cd53e2.css.map": "/Alura-Studies/static/css/main.01cd53e2.css.map",
+    "main.89337cbe.js.map": "/Alura-Studies/static/js/main.89337cbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01cd53e2.css",
+    "static/js/main.89337cbe.js"
+  ]
+}
