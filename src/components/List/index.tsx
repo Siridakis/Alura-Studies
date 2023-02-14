@@ -1,4 +1,3 @@
-import React from "react";
 import { ITarefa } from '../../types/task';
 import Item from "./Item";
 import style from './List.module.scss';

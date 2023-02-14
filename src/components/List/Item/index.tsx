@@ -27,6 +27,7 @@ export default function Item(
         }
         )}
       >
+      <button className={style.closeButton}/>      
       <h3>{tarefa}</h3>
       <span>{tempo}</span>
       {completado && <span className={style.concluido} aria-label="tarefa completada"></span>}

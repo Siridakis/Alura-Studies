@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import Chronometer from '../components/Chronometer';
 import Form from '../components/Form';
 import List from '../components/List';

@@ -20,6 +20,18 @@
   @media screen and (min-width:1280px) {
     font-size: 1.8rem;
   }
+
+  .closeButton {
+    display: block;
+    background-image: url('../../../assets/img/close-icon.svg');
+    background-repeat: no-repeat;
+    background-size: 38px 38px;
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    width: 42px;
+    height: 42px;
+  }
 }
 
 .itemSelecionado {
